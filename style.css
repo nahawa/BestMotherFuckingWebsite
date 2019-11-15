@@ -1,0 +1,20 @@
+.rouge
+{
+	color: maroon;
+}
+.bleu
+{
+	color: blue;
+}
+.souligner
+{
+	text-decoration: underline;
+}
+.souligner
+{
+	color: red;
+}
+foo {
+      align: center;
+      valign: center;
+    }
